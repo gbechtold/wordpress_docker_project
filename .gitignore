@@ -1,0 +1,5 @@
+# Ignore sensitive files
+*.log
+*.key
+*.pem
+wp-config.php
